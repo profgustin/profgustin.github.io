@@ -1,5 +1,7 @@
 ## DPR 241 Portfolio
 
+![Image](portfolio.png)
+
 Welcome to my portfolio of work for DPR 241 - Mobile Web Development.  My work will highlight working with Git and GitHub, as well as planning and designing responsive web sites using a variety of techniques used by professionals.
 
 You can use the [editor on GitHub](https://github.com/profgustin/profgustin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
